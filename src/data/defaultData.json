@@ -1,0 +1,88 @@
+[
+  {
+    "id": 0,
+    "setName": "Biology Chapter 1",
+    "description": "Biology terms and definitions for Chapter 1",
+    "questions": [
+      {
+        "question": "A part of the earth that consists of life. (i.e. most regions of land, bodies of water like lakes, oceans, and rivers, and the surrounding atmosphere)",
+        "answer": "Biosphere"
+      },
+      {
+        "question": "The community of living things in an area, along with the nonliving features of the environment that support the living community. ",
+        "answer": "Ecosystem"
+      },
+      {
+        "question": "Individual living things. (ex. a squirrel, grass, sea cucumber, etc.)",
+        "answer": "Organisims"
+      },
+      {
+        "question": "Life's basic units of structure and function.",
+        "answer": "Cells"
+      },
+      {
+        "question": "The chemical responsible for inheritance.",
+        "answer": "DNA"
+      },
+      {
+        "question": "Units of inherited information along the length of DNA molecules.",
+        "answer": "Genes"
+      },
+      {
+        "question": "A distinct form of life.",
+        "answer": "Species"
+      },
+      {
+        "question": "Organisms whose entire bodies consist of one single cell.",
+        "answer": "Unicellular"
+      },
+      {
+        "question": "The broadest category of classification. There are three domains: Archaea, Bacteria, and Eukarya.",
+        "answer": "Domain"
+      },
+      {
+        "question": "Cells without a nuclei.",
+        "answer": "Prokaryotic cells"
+      },
+      {
+        "question": "They contain nuclei that separates DNA from the rest of the cell.",
+        "answer": "Eukaryotic cells"
+      },
+      {
+        "question": "Organisms that are made up of many cells.",
+        "answer": "Multicellular"
+      },
+      {
+        "question": "The process by which plants make food.",
+        "answer": "Photosynthesis"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "setName": "General Knowledge",
+    "description": "A set of random questions",
+    "questions": [
+      {
+        "question": "How many days are in a week?",
+        "answer": "7"
+      },
+      {
+        "question": "How many planets are in the solar system?",
+        "answer": "8"
+      },
+      {
+        "question": "How many oceans are there in the world?",
+        "answer": "5"
+      },
+      {
+        "question": "Who was the first man on the moon?",
+        "answer": "Neil Armstrong"
+      },
+      {
+        "question": "Who was the second man on the moon?",
+        "answer": "Buzz Aldrin"
+      }
+    ]
+  }
+]
