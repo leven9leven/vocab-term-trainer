@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This webapp allows users to create vocabulary sets and practice memorizing terms through flashcards or writing. <br/>
+Developed by Prem Bhanderi with ReactJS.
 
 ## How to Run
 
